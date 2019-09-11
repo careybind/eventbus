@@ -34,8 +34,5 @@ public class EnventConfig {
 		// executor.setKeepAliveSeconds(600);
 		// executor.setAllowCoreThreadTimeOut(true);
 		return executor;
-		/**
-		 *
-		 */
 	}
 }
